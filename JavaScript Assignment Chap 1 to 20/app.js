@@ -1,7 +1,7 @@
 // CHAP # 01
 
 // Q # 1
-alert('Assalam u Alaikum, Saad Hashim Here');
+alert('Assalam u Alaikum, Syed Sajjad Hussain Here');
 
 // Q # 2
 alert('Error! Please enter a valid password.');
@@ -22,7 +22,7 @@ window.alert('Hello... I can run JS through my web browsers console');
 var username;
 
 // Q # 2
-var myName = "Muhammad Waleed Khan";
+var myName = "Syed Sajjad Hussain";
 
 // Q # 3
 var message;
@@ -31,8 +31,8 @@ message = "Hello World";
 alert(message);
 
 // Q # 4
-var name = "Muhammad Huzaifa Khan";
-var age = 32;
+var name = "Syed Sajjad Hussain";
+var age = 23;
 var course = "Certified Hybrid Mobile Application Development";
 
 alert(name);
@@ -45,7 +45,7 @@ var pizza = "PIZZA\nPIZZ\nPIZ\nPI\nP";
 alert(pizza);
 
 // Q # 6
-var email="huzaifanadir1997@gmail.com";
+var email="fastpositive9@gmail.com";
 
 alert("My Email Address is "+email);
 
